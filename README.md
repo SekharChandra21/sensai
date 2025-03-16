@@ -20,7 +20,7 @@ Installation
 
 To set up the frontend locally, follow these steps:
 
-Clone the repository: https://github.com/SekharChandra21/sensai
+Clone the repository: [https://github.com/SekharChandra21/sensai](https://github.com/SekharChandra21/sensai.git)
 
 Navigate to the project directory: cd sensai
 
